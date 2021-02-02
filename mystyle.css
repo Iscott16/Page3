@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+#cheeseburger{
+  padding: 60px;
+  border: 6px solid #000;
+  background: #FFF;
+}

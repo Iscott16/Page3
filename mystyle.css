@@ -1,13 +1,56 @@
-body {
-  background-color: lightblue;
-}
+body{
+  background-color: yellow;
 
+}
 h1 {
   color: navy;
-  margin-left: 20px;
+  padding: 50px;
+  margin: 25px 50px 75px 100px;
+  width: 600px;
+}
+h3 {
+  color: navy;
+  margin: 25px 50px 75px 100px;
+  width: 600px;
 }
 #cheeseburger{
-  padding: 60px;
-  border: 6px solid #000;
-  background: #FFF;
+  color: #000080;
+  padding: 150px;
+  border: 10px solid #000;
+  background: #ff4d4d;
+  width: 600px;
+  margin: 25px 50px 75px 100px;
+
 }
+#hotdog{
+  color: #000033;
+  padding: 150px;
+  border: 10px solid #000;
+  background: #ff3333;
+  width: 600px;
+  margin: 25px 50px 75px 100px;
+}
+  #fries{
+    color: #9999ff;
+    padding: 150px;
+    border: 10px solid #000;
+    background: #ff1a1a;
+    width:600px;
+    height: 100px;
+    margin: 25px 50px 75px 100px;
+  }
+  #shake{
+    color: #b3b3ff;
+    padding: 150px;
+    border: 10px solid #000;
+    background: #ff1a1a;
+    width: 600px;
+    margin: 25px 50px 75px 100px;
+  }
+  #nugget{
+    color: #e6e6ff;
+    padding: 150px;
+    border: 10px solid #000;
+    background: #ff0000;
+    width: 600px;
+    margin: 25px 50px 75px 100px;

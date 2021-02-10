@@ -7,11 +7,13 @@ h1 {
   padding: 50px;
   margin: 25px 50px 75px 100px;
   width: 600px;
+  text-shadow: 2px 2px;
 }
 h3 {
   color: navy;
   margin: 25px 50px 75px 100px;
   width: 600px;
+    transform: rotate(20deg);
 }
 #cheeseburger{
   color: #000080;
@@ -20,6 +22,7 @@ h3 {
   background: #ff4d4d;
   width: 600px;
   margin: 25px 50px 75px 100px;
+  border-radius: 25px;
 
 }
 #hotdog{
@@ -29,6 +32,7 @@ h3 {
   background: #ff3333;
   width: 600px;
   margin: 25px 50px 75px 100px;
+  background-color: hsl(50%, 40%, 30%);
 }
   #fries{
     color: #9999ff;
@@ -38,6 +42,7 @@ h3 {
     width:600px;
     height: 100px;
     margin: 25px 50px 75px 100px;
+    border-radius: 50px;
   }
   #shake{
     color: #b3b3ff;
@@ -46,6 +51,7 @@ h3 {
     background: #ff1a1a;
     width: 600px;
     margin: 25px 50px 75px 100px;
+    background-color: hsl(50%, 40%, 30%);
   }
   #nugget{
     color: #e6e6ff;
